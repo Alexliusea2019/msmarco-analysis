@@ -1,1 +1,3 @@
 # msmarco-analysis
+
+Implement end-to-end data loading, statistics computation and logging od MS MARCO passsage-ranking triplets. 
