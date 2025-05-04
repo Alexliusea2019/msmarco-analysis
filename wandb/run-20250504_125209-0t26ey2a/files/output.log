@@ -1,0 +1,9 @@
+[↓] Loading MSMARCO v1.1...
+[📊] Processing split: validation
+Traceback (most recent call last):
+  File "/Volumes/workplace/LLM-Learn/msmarco-analysis/msmarco_analysis.py", line 84, in <module>
+    analyze_msmarco()
+  File "/Volumes/workplace/LLM-Learn/msmarco-analysis/msmarco_analysis.py", line 47, in analyze_msmarco
+    passage_lengths = [len(example['passage']['passage_text'].split()) for example in split]
+                           ~~~~~~~^^^^^^^^^^^
+KeyError: 'passage'

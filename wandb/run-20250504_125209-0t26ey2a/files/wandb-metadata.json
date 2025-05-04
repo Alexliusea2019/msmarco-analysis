@@ -1,0 +1,43 @@
+{
+  "os": "macOS-15.4.1-arm64-arm-64bit",
+  "python": "CPython 3.12.7",
+  "startedAt": "2025-05-04T19:52:09.781448Z",
+  "program": "/Volumes/workplace/LLM-Learn/msmarco-analysis/msmarco_analysis.py",
+  "codePath": "msmarco_analysis.py",
+  "git": {
+    "remote": "git@github.com:Alexliusea2019/msmarco-analysis.git",
+    "commit": "3733435f4a0376077665aaef2db101426805c76a"
+  },
+  "email": "alexliusea2019@gmail.com",
+  "root": "/Volumes/workplace/LLM-Learn/msmarco-analysis",
+  "host": "80a9972f36cb",
+  "executable": "/opt/anaconda3/bin/python",
+  "codePathLocal": "msmarco_analysis.py",
+  "cpu_count": 12,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "350372139008"
+    },
+    "/System/Volumes/Data": {
+      "total": "494384795648",
+      "used": "350372139008"
+    }
+  },
+  "memory": {
+    "total": "38654705664"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 12
+  },
+  "apple": {
+    "name": "Apple M3 Pro",
+    "ecpuCores": 6,
+    "pcpuCores": 6,
+    "gpuCores": 18,
+    "memoryGb": 36,
+    "ramTotalBytes": "38654705664"
+  }
+}
